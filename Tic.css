@@ -1,0 +1,31 @@
+
+
+
+.bg { 
+    position: relative;
+  background-color: #ff6493; 
+ background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.ii{
+    position: absolute;
+    top: 350px;
+    left: 28%;
+    width: 300px;
+    height: 300px;
+}
+
+.iii{
+    position: absolute;
+    top: 645px;
+    left: 62%;
+    width: 200px;
+    height: 100px;
+
+
+}
+
+

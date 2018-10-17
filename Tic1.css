@@ -1,0 +1,140 @@
+body {
+    background-image: url("images/Home1.jpg");
+    height: 600px;
+    width: 600px;
+}
+
+.bgg { 
+    position: relative;
+  background-color:#ff6493; 
+ background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.swal-text{
+    text-align: center;
+    font-family:'Bubblegum Sans','cursive';
+    font-size: 30px;
+    color:#ff6493;
+}
+.swal-button{
+    background-color:#474665;
+}
+
+.ii1{
+    position: absolute;
+    top: 600px;
+    left: 62%;
+    width: 200px;
+    height: 100px;
+}
+
+.iii1{
+    position: absolute;
+    top: 300px;
+    left: 62%;
+    width: 200px;
+    height: 100px;
+}
+
+.game-board {
+    margin-left: 350px;
+    margin-top: 350px;
+
+}
+
+
+
+td {
+    position: static;  
+    border-left: 8px solid #a59d9f;
+border-bottom: 8px solid #a59d9f;
+
+top: 100px;
+    left: 80%;
+color: #474665;
+font-size: 50px;
+font-family: 'Bubblegum Sans','cursive';
+font-weight: bold;
+width: 80px;
+height: 80px;
+text-align: center;
+}
+    
+    tr .one {
+        border-left: none;
+
+    }
+    tr .four{
+        border-left: none;
+    }
+    tr .seven {
+        border-left: none;
+        border-bottom: none;
+    }
+    tr .eight, .nine{
+        border-bottom: none;
+    }
+    
+  
+  
+    
+
+/* .bgg { 
+    position: relative;
+  background-color:#ff6493; 
+ background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.ii1{
+    position: absolute;
+    top: 600px;
+    left: 62%;
+    width: 200px;
+    height: 100px;
+}
+
+.iii1{
+    position: absolute;
+    top: 300px;
+    left: 62%;
+    width: 200px;
+    height: 100px;
+}
+
+
+
+td {
+    position: static;  
+    border-left: 4px solid red;
+border-bottom: 4px solid red;
+
+top: 100px;
+    left: 80%;
+
+width: 100px;
+height: 100px;
+}
+    
+    tr .one {
+        border-left: none;
+
+    }
+    tr .four{
+        border-left: none;
+    }
+    tr .seven {
+        border-left: none;
+        border-bottom: none;
+    }
+    tr .eight, .nine{
+        border-bottom: none;
+    }
+    
+  
+  
+     */
