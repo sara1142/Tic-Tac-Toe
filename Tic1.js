@@ -1,10 +1,10 @@
 function mypage1() {
-    location.replace("file:///C:/Users/saraf/wdi/function/exercies/projexct00/Tic1.html")
+    location.replace("./Tic1.html")
 }
 
 
 function mypage11() {
-    location.replace("file:///C:/Users/saraf/wdi/function/exercies/projexct00/Tic.html")
+    location.replace("./Tic.html")
 }
 
 
