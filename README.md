@@ -22,6 +22,17 @@
 
 * Tie.
 
+[Let's_Play](https://sara1142.github.io/Tic-Tac-Toe/index.html)
+
+
+## Upcoming Features:
+1. Scores
+2. Audios 
+3. Levels
+
+
+
+
 ## Credit :
 * [Google Font](https://fonts.google.com/)
 * [Images](https://www.freepik.com/)
