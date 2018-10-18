@@ -4,7 +4,7 @@ function mypage1() {
 
 
 function mypage11() {
-    location.replace("./Tic.html")
+    location.replace("./index.html")
 }
 
 
